@@ -1,7 +1,7 @@
 ### 
 
 <!--
-**rachelrogers-gbr/rachelrogers-gbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rachelesrogers/rachelesrogers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:school: PhD Student at the University of Nebraska - Lincoln
+:school: Postdoctoral Research Associate at the University of Nebraska - Lincoln
