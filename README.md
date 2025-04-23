@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:school: Postdoctoral Research Associate at the University of Nebraska - Lincoln
+:school: Lecturer at the University of Technology Sydney
